@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a love for open-source projects and modern web technologies.
+I'm currently striving to become a passionate software developer, putting effort into mastering open-source projects and modern web technologies.
 
 ## 🚀 Skills
 
