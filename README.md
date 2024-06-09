@@ -11,9 +11,9 @@ I'm a passionate software developer with a love for open-source projects and mod
 
 ## 📈 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/BaeSunny?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/BaeSunny?label=Stars&style=social)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/BaeSunny/REPOSITORY)
+![BaeSunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeSunny&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeSunny&layout=compact&theme=radical)
+
 
 ## 🔗 Connect with Me
 
