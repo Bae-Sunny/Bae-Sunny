@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm BaeSunny! 👋
 
-<!--
-**Bae-Sunny/Bae-Sunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate software developer with a love for open-source projects and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages**: Java, JavaScript, Python
+- **Frameworks/Libraries**: Spring Boot, Vue, Django
+- **Tools**: Git, Visual Studio Code, Docker
+- 
+## 📈 GitHub Stats
+
+![BaeSunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeSunny&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeSunny&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+
+- [Email](mailto:bshwa0563@gmail.com)
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=BaeSunny.BaeSunny)
+
+![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
