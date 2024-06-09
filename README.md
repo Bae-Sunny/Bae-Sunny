@@ -6,7 +6,7 @@ I'm a passionate software developer with a love for open-source projects and mod
 
 ## 🚀 Skills
 
-- **Languages**: Java, JavaScript, Python
+- **Languages**: <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=react&logoColor=#F7DF1E" />
 - **Frameworks/Libraries**: Spring Boot, Vue, Django
 - **Tools**: Git, Visual Studio Code, Docker
 - 
