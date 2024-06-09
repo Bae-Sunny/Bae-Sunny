@@ -20,5 +20,3 @@ I'm a passionate software developer with a love for open-source projects and mod
 - [Email](mailto:bshwa0563@gmail.com)
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=BaeSunny.BaeSunny)
-
-![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
