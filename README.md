@@ -1,35 +1,99 @@
-# Hi there, I'm BaeSunny! 👋
+# 👋 안녕하세요, 저는 Sunny입니다!
 
-## About Me
+✨ 열정적인 개발자 | 👩‍💻 기술 애호가 | 🌍 문제 해결자
 
-I'm currently striving to become a passionate software developer, putting effort into mastering open-source projects and modern web technologies.
+> "코드는 예술이고, 개발자는 예술가입니다."  
+> "새로운 기술을 배우고, 세상에 변화를 일으키는 것을 좋아합니다."
 
-## 🚀 Skills
+---
 
-📋 **Languages**:  
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
+## 💻 기술 스택
 
-📚 **Frameworks, Platforms and Libraries**:  
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+### 📊 기술 스택 분포
 
-🖥️ **ML/DL**:  
-<img src="https://img.shields.io/badge/Matplotlib-%23787878.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> 
+![기술 스택 분포]<img width="792" alt="piechart" src="https://github.com/user-attachments/assets/87f1f747-3ffb-4a2a-bf22-bd8f96779b37">
 
-🏢 **Office**:  
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 
-🎛️ **Operating System**:  
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
+- **Frontend**: 40%
+- **Backend**: 35%
+- **Database**: 15%
+- **DevOps**: 10%
 
-🥅 **Other**:  
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+### 🖥️ 프로그래밍 언어
+- JavaScript
+- Python
+- Java
 
-🎨 **Design**:   
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+### ⚡ 프론트엔드
+- React
+- Vue.js
+- HTML5
+- CSS3
 
-🧪 **Testing**:  
-<img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"> 
+### 🛠️ 백엔드
+- Node.js
+- Django
+- Spring Boot
 
-## 🔗 Connect with Me
+### 🗄️ 데이터베이스
+- MySQL
+- Oracle
 
-- [Email](mailto:bshwa0563@gmail.com)
+### ⚙️ 도구 및 기타
+- Git
+- Docker
+- AWS
+- Figma
+
+### 🤖 AI/ML
+- TensorFlow
+- OpenCV
+
+### 🏢 HR
+- SAP ERP
+- 데이터 분석
+
+---
+
+## 🏆 프로젝트 경험
+
+### [MyPortfolio](https://github.com/Bae-Sunny/MyPortfolio)
+- **기술 스택**: React, Node.js, MongoDB
+- **설명**: 제 개인 포트폴리오 웹사이트로, 다양한 프로젝트를 소개하고 있습니다. React를 사용하여 동적인 사용자 경험을 제공하며, Node.js로 서버 사이드 기능을 구축했습니다.
+
+### [WeatherApp](https://github.com/Bae-Sunny/WeatherApp)
+- **기술 스택**: Vue.js, OpenWeatherMap API
+- **설명**: 실시간 날씨 정보를 제공하는 웹 애플리케이션입니다. Vue.js로 구축했으며, OpenWeatherMap API를 통해 날씨 데이터를 가져옵니다.
+
+---
+
+## 💬 연락처
+
+- 📧 이메일: [bshwa0563@gmail.com](mailto:bshwa0563@gmail.com)
+- 🌐 [개인 웹사이트](https://scandalous-lady-ca4.notion.site/0edf6334bc294ceb9e4f9cc0983568b2?pvs=4)
+
+---
+
+## 🎯 관심 분야
+
+- 인공지능(AI) 및 머신러닝(ML)
+- 클라우드 컴퓨팅
+- 웹 애플리케이션 개발
+- 데이터 분석 및 시각화
+
+---
+
+### ⏳ GitHub 활동 통계
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-Sunny&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)](https://github.com/Bae-Sunny)
+
+---
+
+### 🔥 최근 많이 사용한 언어
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bae-Sunny&layout=compact&theme=radical)](https://github.com/Bae-Sunny)
+
+---
+
+
+### "Stay curious, keep coding, and enjoy the journey!" 🌟
