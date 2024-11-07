@@ -20,16 +20,16 @@
 - **JavaScript** · **Python** · **Java**
 
 ### ⚡ **프론트엔드**
-- **React** · **Vue.js** · **HTML5** · **CSS3** · **SASS**
+- **React** · **Vue.js** · **HTML5** · **CSS3** 
 
 ### 🛠️ **백엔드**
 - **Node.js** · **Django** · **Spring Boot**
 
 ### 🗄️ **데이터베이스**
-- **MySQL** · **Oracle** · **MongoDB**
+- **MySQL** · **Oracle** 
 
 ### ⚙️ **DevOps & 도구**
-- **Git** · **Docker** · **AWS** · **Nginx** · **Jenkins**
+- **Git** · **Docker** · **AWS** 
 
 ---
 
