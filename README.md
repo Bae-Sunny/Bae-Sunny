@@ -36,12 +36,12 @@
 ## 🏆 프로젝트 경험
 
 ### [MyPortfolio](https://github.com/Bae-Sunny/MyPortfolio)
-- **기술 스택**: React, Node.js, MongoDB
+- **기술 스택**: React, Node.js
 - **설명**: 개인 포트폴리오 웹사이트로, 나의 기술 스택과 프로젝트를 소개합니다. 이 프로젝트는 React와 Node.js를 이용해 구축한 풀스택 웹 애플리케이션입니다.
 - **특징**:
   - 반응형 디자인
   - 관리자 대시보드 기능
-  - MongoDB를 사용한 데이터 저장
+
 
 ---
 
