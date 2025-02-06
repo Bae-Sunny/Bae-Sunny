@@ -2,10 +2,6 @@
     <a href="https://bae-sunny.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/MY%20PORTFOLIO-Click%20Here-9cf?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Link">
     </a>
-
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbae-sunny&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" alt="Profile Views"/>
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bae-sunny&layout=compact&theme=dracula" alt="Top Languages"/>
 </div>
 
 ### 💡 About Me
@@ -19,3 +15,10 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 - 📫 연락처: bshwa0563@gmail.com
 
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bae-sunny&layout=compact&theme=dracula" alt="Top Languages"/>
+</div>
+<div align="center">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbae-sunny&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" alt="Profile Views"/>
+</div>
