@@ -32,20 +32,20 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### 🏆 Notable Projects
-#### 1. 모바일 건강 관리 앱
-- Flutter, Dart 기반 크로스 플랫폼 모바일 애플리케이션
-- 사용자 맞춤형 건강 트래킹 및 운동/식단 관리 기능
-- Provider를 이용한 상태 관리 및 Firebase 연동
-
-#### 2. KBO 리그 통합 데이터 플랫폼
+#### 1. KBO 리그 통합 데이터 플랫폼
 - JavaScript, Python Web Scraping, Oracle 활용
 - KBO 리그의 경기, 선수, 날씨, 뉴스 데이터 통합 제공
 - [프로젝트 상세](https://scandalous-lady-ca4.notion.site/4818ecc4ff1a4744b10b00b0b6f0a9a3?pvs=4)
 
-#### 3. AI 기반 마스크 감지 & 퍼스널 컬러 진단
+#### 2. AI 기반 마스크 감지 & 퍼스널 컬러 진단
 - Vue.js, Spring Boot, TensorFlow, OpenCV 활용
 - 딥러닝 기반 이미지 분석으로 마스크 착용 여부 및 퍼스널 컬러 진단
 - [프로젝트 상세](https://scandalous-lady-ca4.notion.site/AI-c8520be1e0a44c8b82c79be1d9e3c346?pvs=4)
+
+#### 3. 취업 준비생을 위한 온라인 취업 지원 서비스
+- React, Spring Boot, TensorFlow, OpenCV 활용
+- AI 면접 및 맞춤형 피드백 제공 통합 플랫폼
+- [프로젝트 상세](https://scandalous-lady-ca4.notion.site/e638492c79bc423eadad200877af0c9d?pvs=4)
 
 ### 🎓 Education & Certification
 - 컴퓨터과학 전공 졸업 (2022 ~ 2024)
