@@ -26,9 +26,8 @@
   <br>
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=springsecurity" alt="Spring Security" width="50"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" width="50"/>
+  <img src="https://skillicons.dev/icons?i=database" alt="Oracle" width="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/>
   <br>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
