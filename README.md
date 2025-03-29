@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" width="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/>
   <br>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/>  
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50"/>
   <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50"/>
