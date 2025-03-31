@@ -106,12 +106,13 @@
 
 ### 📧 연락처 (Contact)
 
-<p align="center">
-    [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bshwa0563@gmail.com)
-    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bae-Sunny)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/) <!-- 실제 링크로 수정 -->
-    [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://bae-sunny.github.io/)
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bshwa0563@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bae-Sunny) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://bae-sunny.github.io/)
+
+
+
 
 <br>
 
