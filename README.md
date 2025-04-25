@@ -114,8 +114,6 @@
 <br>
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bae-Sunny&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bae-Sunny&layout=compact&theme=github_dark)
 
 </div>
