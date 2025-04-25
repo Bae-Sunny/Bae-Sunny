@@ -112,14 +112,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://bae-sunny.github.io/)
 
 <br>
-
-<div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bae-Sunny&layout=compact&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Bae-Sunny)
-
-</div>
