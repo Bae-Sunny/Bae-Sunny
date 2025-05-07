@@ -73,7 +73,7 @@
 2.  **AI 기반 이미지 분석 서비스 (마스크 감지 & 퍼스널 컬러 진단)**
     *   🔗 [프로젝트 상세 (Notion)](https://scandalous-lady-ca4.notion.site/AI-c8520be1e0a44c8b82c79be1d9e3c346?pvs=4)
     *   🛠️ **Tech:** `Vue.js`, `Spring Boot`, `TensorFlow`, `OpenCV`
-    *   💡 **딥러닝 모델(TensorFlow, OpenCV)**을 웹 서비스(Vue.js, Spring Boot)와 연동하여 **이미지 분석 결과를 사용자에게 유용하게** 전달하는 경험을 했습니다.
+    *   💡 **딥러닝 모델** (**TensorFlow**, **OpenCV**)을 웹 서비스(Vue.js, Spring Boot)와 연동하여 **이미지 분석 결과를 사용자에게 유용하게** 전달하는 경험을 했습니다.
 3.  **AI 면접 기능 포함 온라인 취업 지원 서비스**
     *   🔗 [프로젝트 상세 (Notion)](https://scandalous-lady-ca4.notion.site/e638492c79bc423eadad200877af0c9d?pvs=4)
     *   🛠️ **Tech:** `React`, `Spring Boot`, `TensorFlow`, `OpenCV`
