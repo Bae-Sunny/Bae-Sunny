@@ -4,33 +4,33 @@
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-## 👋 Hello, I'm **배선화**,  
-### 기술로 사용자의 문제를 해결하는 **풀스택 웹 개발자**입니다.
+## 👋 Hello, I'm **배선화**  
+### 기술로 문제를 해결하는 **풀스택 웹 개발자**입니다.
 
-기획부터 백엔드, 프론트엔드, 배포까지 전체 흐름을 이해하고 구현할 수 있으며,  
-**현실의 문제를 기술로 해결하는 서비스 중심 개발자**로 성장하고 있습니다.
+기획부터 백엔드, 프론트엔드, 배포까지 **전체 흐름을 이해하고 구현**할 수 있으며,  
+**실용적인 기술로 사용자 경험을 개선하는 서비스 중심 개발자**로 성장하고 있습니다.
 
 </div>
 
 ---
 
-## 💡 풀스택 개발자로서의 강점
+## 💡 개발자로서의 강점
 
-- **전방위 서비스 개발 역량**
-  - REST API 설계, JWT 인증, DB 설계, 캐싱, SSR/SPA 등 웹 아키텍처 전반을 설계하고 개발합니다.
+- **서비스 전체 흐름 구현 능력**  
+  - REST API, JWT 인증, DB 설계, 캐싱, SSR/SPA 구조 등 다양한 웹 아키텍처를 이해하고 개발합니다.
 
-- **유지보수성과 확장성을 고려한 구조 설계**
-  - MSA 구조, DTO/Entity 분리, 폴더 구조 정비, 환경 분리 설정 등 실무에 적합한 코드 작성
+- **유지보수성과 확장성을 고려한 설계**  
+  - MSA, DTO/Entity 분리, 폴더 구조 정리, 환경 설정 자동화 등 실무 친화적 구조 설계 경험
 
-- **프론트부터 서버까지 사용자 중심**
-  - React/Vue.js 기반 UX 개발 + API 연동 + 예외처리/상태관리까지 전방위 대응
+- **프론트부터 서버까지 사용자 중심 대응**  
+  - React/Vue 기반 UX 개발, 상태 관리, API 연동, 예외 처리까지 전방위 대응 역량
 
-- **개발-배포 파이프라인 경험**
-  - Docker, GitHub Actions, AWS 등을 통해 일관된 빌드/배포 흐름 경험
+- **DevOps 파이프라인 경험**  
+  - Docker, GitHub Actions, AWS를 활용한 배포 자동화 및 운영 경험 보유
 
 ---
 
@@ -41,30 +41,34 @@
 | **Frontend** | `Vue.js`, `React`, `HTML/CSS`, `Tailwind`, `Flutter` |
 | **Backend** | `Spring Boot`, `Django`, `Node.js`, `REST API`, `JPA`, `MyBatis` |
 | **Database** | `MySQL`, `Oracle`, `Redis` |
+| **AI / RAG Tools** | `TensorFlow`, `LangChain`, `OpenAI API`, `ChromaDB` |
 | **Infra & DevOps** | `Docker`, `AWS`, `GitHub Actions`, `Nginx` |
-| **Tooling** | `Git`, `Figma`, `Notion`, `Postman`, `Swagger` |
+| **Tools** | `Git`, `Figma`, `Notion`, `Postman` |
 
 ---
 
-## 🔍 주요 프로젝트 (서비스 전체 구현에 집중)
+## 🔍 주요 프로젝트
+
 → [📂 전체 프로젝트 보기](https://bae-sunny.github.io/)
-| 프로젝트 | 핵심 역할 | 핵심 기능 |
+
+| 프로젝트 | 핵심 역할 | 주요 기능 |
 |----------|-----------|-----------|
-| **온라인 취업 지원 플랫폼** | `Fullstack` | 면접 시뮬레이션 + 사용자/관리자/컨설턴트 3역할 기반 웹 시스템 (JWT + Redis + WebRTC) |
-| **AI 이미지 분석 서비스** | `Frontend + Model Integration` | 사용자 이미지 분석 후 컬러 진단 및 가상 시뮬레이션 제공 (Spring + Vue.js) |
-| **KBO 리그 데이터 플랫폼** | `Fullstack` | 크롤링 → ETL → 시각화까지 백엔드 기반 정보 제공 시스템 |
-| **커피 원두 예측 서비스** | `Fullstack` | 사용자 입력 → 머신러닝 예측 → 프론트 결과 출력까지 연결된 구조 구현 |
-| **퍼스널컬러 알고리즘** | `Fullstack + Algorithm 설계` | 컴퓨터 비전 기반 분석 알고리즘 및 API 패키징 설계 (향후 웹 연동 계획 포함) |
+| **🛍️ 스마트스토어 FAQ 챗봇** | `Backend + RAG + Frontend 연동` | ChromaDB + LangChain 기반 RAG 구조로 FAQ 응답 생성, Django + React 구성, GitHub Actions로 배포 자동화 |
+| **🧑‍💼 온라인 취업 지원 플랫폼** | `Fullstack` | 사용자/관리자/컨설턴트 3계층 지원 시스템 (JWT 인증, WebRTC 모의면접 기능 포함) |
+| **🎨 AI 이미지 분석 서비스** | `Frontend + AI 연동` | 사용자 이미지 기반 컬러 분석 및 시뮬레이션 (Spring + Vue.js 통합) |
+| **⚾ KBO 리그 데이터 플랫폼** | `Fullstack` | 크롤링 → ETL → 시각화까지 전체 데이터 흐름 구현 |
+| **☕ 커피 원두 예측 서비스** | `Fullstack` | 사용자 입력 기반 머신러닝 예측 → 결과 시각화까지 연동 |
+| **🎨 퍼스널컬러 분석 API** | `Algorithm + 패키징` | 이미지 기반 퍼스널컬러 추론 알고리즘 + 추후 웹 연동 고려한 API 구조 설계 |
 
 ---
 
 ## 🎯 커리어 목표
 
-**문제를 끝까지 해결하는 개발자**,  
-**전체 흐름을 이해하고 각 계층의 역할을 구현할 수 있는 풀스택 전문가**를 지향합니다.
+- **전체 흐름을 이해하고 구현할 수 있는 풀스택 개발자**  
+- **사용자 중심 문제 해결 능력을 갖춘 실전형 개발자**
 
-비즈니스 목표와 사용자의 니즈를 정확히 파악하고,  
-이를 실현할 수 있는 아키텍처와 코드로 표현할 줄 아는 개발자가 되겠습니다.
+기술은 도구일 뿐, 최종 목표는 **가치를 전달하는 것**이라 믿습니다.  
+사용자와 비즈니스 니즈를 고려한, 실질적인 제품을 만드는 개발자가 되겠습니다.
 
 ---
 
@@ -73,4 +77,3 @@
 [📧 Email](mailto:bshwa0563@gmail.com)  
 [🔗 GitHub](https://github.com/Bae-Sunny)  
 [🌐 Portfolio](https://bae-sunny.github.io/)
-
