@@ -53,7 +53,7 @@
 
 | 프로젝트 | 핵심 역할 | 주요 기능 |
 |----------|-----------|-----------|
-| **🛍️ 스마트스토어 FAQ 챗봇** | `Backend + RAG + Frontend 연동` | ChromaDB + LangChain 기반 RAG 구조로 FAQ 응답 생성, Django + JavaScript 구성 |
+| **🛍️ 스마트스토어 FAQ 챗봇** | `Backend + RAG + Frontend 연동` | Django 기반 API 및 템플릿 렌더링, ChromaDB + LangChain 기반 RAG 구조로 FAQ 응답 생성 |
 | **🧑‍💼 온라인 취업 지원 플랫폼** | `Fullstack` | 사용자/관리자/컨설턴트 3계층 지원 시스템 (JWT 인증, WebRTC 모의면접 기능 포함) |
 | **🎨 AI 이미지 분석 서비스** | `Frontend + AI 연동` | 사용자 이미지 기반 컬러 분석 및 시뮬레이션 (Spring + Vue.js 통합) |
 | **⚾ KBO 리그 데이터 플랫폼** | `Fullstack` | 크롤링 → ETL → 시각화까지 전체 데이터 흐름 구현 |
