@@ -5,4 +5,5 @@
 </div>
 
 <br/>
-<img width="928" height="1120" alt="bshwa" src="https://github.com/user-attachments/assets/d0cd6f99-a49a-4b73-a016-9d39388e3dd9" />
+<img width="890" height="966" alt="백그라운드" src="https://github.com/user-attachments/assets/d814d6f1-7dd9-4ecc-a4c8-2ddb57c3bcac" />
+
