@@ -4,5 +4,5 @@
 
 </div>
 <div align="center">
-  <img src="assets/baesunnygif.gif" alt="BaeSunny GIF" width="70%" />
+  <img src="assets/baesunny.gif" alt="BaeSunny GIF" width="70%" />
 </div>
